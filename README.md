@@ -1,0 +1,1 @@
+Run by `npm start`. Click the `?` button for onboarding.
