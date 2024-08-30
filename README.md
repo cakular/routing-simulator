@@ -1,3 +1,5 @@
+# Has been deployed [here](https://routing-simulator.netlify.app/)
+
 Run development mode by:
 
 `npm install`
