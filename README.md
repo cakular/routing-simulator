@@ -1,1 +1,5 @@
-Run by `npm start`. Click the `?` button for onboarding.
+Run production by:
+`npm run build`
+`npm install serve -g`
+`serve -s build`
+Click the `?` button for onboarding.
