@@ -1,5 +1,7 @@
 # Has been deployed [here](https://routing-simulator.netlify.app/)
 
+Website that simulates the link-state algorithm (basically Dijkstra) on a network. Built with React and Material UI
+
 Run development mode by:
 
 `npm install`
